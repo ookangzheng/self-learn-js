@@ -1,5 +1,5 @@
 window.require = (function (modules) {
-  var URL = 'https://wzrdin-zjfjflyzap.now.sh/multi'
+  var URL = 'https://wizardamigos-browserify-cdn.herokuapp.com/multi'
   function init (name, _module) {
     var se = document.createElement('script')
     var module = JSON.parse(_module)[name]
