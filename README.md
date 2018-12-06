@@ -3,4 +3,4 @@ A Js self try project
 
 #require.js from Rawgit in codepen to use NPM module
 
-https://cdn.rawgit.com/ookangzheng/self-learn-js/master/require.js
+https://cdn.jsdelivr.net/gh/ookangzheng/self-learn-js/require.js
